@@ -11921,7 +11921,7 @@
 "classname" "monster_shalrath"
 "origin" "2344 -3672 376"
 "angle" "150"
-"targetname" "spawn_ambush_delayed"
+"targetname" "altar_ambush"
 "spawnflags" "768"
 }
 // entity 365
@@ -11929,7 +11929,7 @@
 "classname" "monster_shalrath"
 "origin" "2528 -3672 376"
 "angle" "150"
-"targetname" "spawn_ambush_delayed"
+"targetname" "altar_ambush"
 "spawnflags" "256"
 }
 // entity 366
@@ -11967,7 +11967,7 @@
 "classname" "monster_shalrath"
 "origin" "2344 -3784 376"
 "angle" "150"
-"targetname" "spawn_ambush_delayed"
+"targetname" "altar_ambush2"
 "spawnflags" "768"
 }
 // entity 369
@@ -11975,7 +11975,7 @@
 "classname" "monster_shalrath"
 "origin" "2528 -3784 376"
 "angle" "150"
-"targetname" "spawn_ambush_delayed"
+"targetname" "altar_ambush2"
 "spawnflags" "256"
 }
 // entity 370
